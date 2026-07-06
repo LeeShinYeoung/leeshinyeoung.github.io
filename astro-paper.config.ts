@@ -24,7 +24,7 @@ export default defineAstroPaperConfig({
     showBackButton: true,
     editPost: {
       enabled: true,
-      url: "https://github.com/LeeShinYeoung/LeeShinYeoung.github.io/edit/main/",
+      url: "https://github.com/LeeShinYeoung/leeshinyeoung.github.io/edit/main/",
     },
     search: "pagefind",
   },
